@@ -7,7 +7,7 @@ See a [demo](https://twitter.com/mckaywrigley/status/1640380021423603713?s=46&t=
 ![Chatbot UI](./public/screenshot.png)
 
 ## Basic Architecture Diagram for the project.
-![alt text](C:/Users/91940/Downloads/Open_AI_Basic_Arch.drawio.png)
+![alt text](C:\Users\91940\Downloads\Open_AI_Basic_Arch.drawio.png)
 
 ## Updates
 
