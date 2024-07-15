@@ -10,8 +10,8 @@ See a [demo](https://twitter.com/mckaywrigley/status/1640380021423603713?s=46&t=
 ![Open_AI_Basic_Arch drawio](https://github.com/user-attachments/assets/92b9fdfd-7355-4192-a983-050230f29c6e)
 
 ## Youtube Link & Blog
-See a [Video] (https://www.youtube.com/watch?v=NgzETvHZUnU).
-See a [Blog] (https://mrcloudbook.com/open-source-project-implementing-devsecops-for-openai-chatbot-ui-deployment-devsecops/)
+See a [Video](https://www.youtube.com/watch?v=NgzETvHZUnU).
+See a [Blog](https://mrcloudbook.com/open-source-project-implementing-devsecops-for-openai-chatbot-ui-deployment-devsecops/)
 
 
 ## Updates
